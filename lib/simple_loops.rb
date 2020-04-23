@@ -12,3 +12,4 @@ def loop_message_n_times(message, output)
     puts message
     count += 1
   end
+end
